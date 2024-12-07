@@ -1,12 +1,3 @@
-.example {
-  background-color: red;
-}
-.example {
-  background-color:  blue;
-}
-.example {
-  background-color: green;
-}
-div, h2, p {
-  background-color: red;
-}
+<h1 style="color: red"> Я - главный блок, я красный! </h1>
+<h1 style="color: blue"> Я - второстепенный блок! Я синий! </h2>
+<h1 style="color: green"> Я - просто блок! Я зеленый! </h3>
