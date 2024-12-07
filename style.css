@@ -1,3 +1,18 @@
-<h1 style="color: red"> Я - главный блок, я красный! </h1>
-<h1 style="color: blue"> Я - второстепенный блок! Я синий! </h2>
-<h1 style="color: green"> Я - просто блок! Я зеленый! </h3>
+/* Стили для блоков */
+.main-block {
+    background-color: red; /* Главный блок красный */
+}
+
+.secondary-block {
+    background-color: blue; /* Второстепенный блок синий */
+}
+
+.simple-block {
+    background-color: green; /* Просто блок зеленый */
+}
+
+/* Стилизация заголовков */
+h1, h2, h3 {
+    color: white; /* Цвет заголовков белый */
+    font-size: 64px; /* Размер шрифта 64 пикселя */
+}
